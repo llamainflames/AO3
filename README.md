@@ -25,16 +25,16 @@ Todo se presenta de forma interactiva a través de una **barra lateral de navega
 - [CSS personalizado](css/style.css): para dar formato visual a la aplicación.
 
 ## 🗃️ Estructura del proyecto
-📁 AO3-Ships
-├── app.py ← Código principal en Streamlit
-├── data/
-│ └── ships_data.xlsx ← Archivo Excel con los datos 2020–2024
-├── css/
-│ └── style.css ← Estilo visual personalizado
-├── images/
-│ └── *.png ← Íconos de categorías
-├── requirements.txt ← Dependencias necesarias
-└── README.md ← Este archivo
+####📁 AO3-Ships
+####├── app.py ← Código principal en Streamlit
+####├── data/
+####│ └── ships_data.xlsx ← Archivo Excel con los datos 2020–2024
+####├── css/
+####│ └── style.css ← Estilo visual personalizado
+####├── images/
+####│ └── *.png ← Íconos de categorías
+####├── requirements.txt ← Dependencias necesarias
+####└── README.md ← Este archivo
 
 ## 📊 Datos utilizados
 
