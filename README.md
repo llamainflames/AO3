@@ -1,8 +1,8 @@
 # 📦 AO3 Ships: Tendencias de fanfics 2020–2024
 
-Este es un proyecto académico desarrollado como trabajo final para el curso **Código**, de la Facultad de Comunicaciones. La aplicación permite explorar de manera visual, clara y accesible las tendencias en fanfiction romántico (ships) dentro del archivo **AO3 (Archive of Our Own)** durante el periodo **2020–2024**.
+Este es un proyecto académico desarrollado como trabajo final para el curso **Pensamiento Computacional para Comunicaciones**, de la Facultad de Ciencias y Artes de la Comunicaciones. La aplicación permite explorar de manera visual, clara y accesible las tendencias en fanfiction romántico (ships) dentro de **AO3 (Archive of Our Own)** durante el periodo **2020–2024**.
 
-Gracias a la recopilación de datos del usuario [centreofthelights](https://archiveofourown.org/series/1209645), se han analizado los 100 ships más populares de cada año, y clasificado según su tipo de relación y la raza de los personajes.
+Gracias a la recopilación de datos de [centreofthelights](https://archiveofourown.org/series/1209645), se han analizado los 100 ships más populares de cada año, y clasificado según su tipo de relación y la raza de los personajes.
 
 ## 🚀 ¿Qué hace esta app?
 
